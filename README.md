@@ -1,4 +1,4 @@
-# Delta Cloud's integration object for certifications
+# WyvernSky Cloud's integration object for certifications
 
 This package is dedicated to auth process of WyvernSky cloud. Before using the this package you need to enter the WyvernSky platform: [URL THAT DO NOT EXIST FOR NOW]. Signup and generate the certificate.json file. Save that json file on your local machine. Without the certificate you cannot use the cloud system as well as without the certification object that is provided by this package you cannot use other intergration packages of the cloud. But without this package you can still use the cloud using REST. But you still need the certificate.
 
