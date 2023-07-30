@@ -1,7 +1,7 @@
 import * as fs from "fs";
 import { TCertificate } from "./types";
 
-class DCAuth {
+class DCCertification {
   private json: TCertificate;
 
   /**
@@ -77,4 +77,4 @@ class DCAuth {
   }
 }
 
-export default DCAuth;
+export default DCCertification;

@@ -1,3 +1,3 @@
-import DCAuth from "./src/DCAuth";
+import DCCertification from "./src/DCCertification";
 
-export { DCAuth };
+export { DCCertification };

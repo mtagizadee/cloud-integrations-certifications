@@ -1,8 +1,8 @@
 {
-  "name": "certifications",
+  "name": "@dc/certifications",
   "version": "1.0.0",
   "description": "The integration object for certifications in delta cloud",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
