@@ -13,14 +13,14 @@ class WSCertification {
   }
 
   public toString(): string {
-    return `[object DCAuth]`;
+    return `[object WSCertification]`;
   }
 
   /**
    * Returns the certificate object
    * @returns certificate object
    * @example
-   * const certificate = new DCAuth("./certificate.json");
+   * const certificate = new WSCertification("./certificate.json");
    * console.log(certificate.certificate);
    *
    * // Output:
