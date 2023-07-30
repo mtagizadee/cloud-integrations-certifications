@@ -1,3 +1,3 @@
-import DCCertification from "./src/DCCertification";
+import WSCertification from "./src/WSCertification";
 
-export { DCCertification };
+export { WSCertification };
